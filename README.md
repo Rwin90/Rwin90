@@ -1,5 +1,5 @@
 # 💫 About Me:
-An innovative software developer with over 9 years of experience in front-end development in various technologies. adaptable to new technologies with the ability to perform at the highest levels of quality and creativity under any constraint.<br>A detail-oriented developer poised to leverage the breadth of experience in building a User-focused web application with the most up-to-date tools, framework, and javascript Es6+.
+An innovative software developer with over 9 years of experience in front-end development in various technologies. adaptable to new technologies with the ability to perform at the highest levels of quality and creativity under any constraint.<br>A detail-oriented developer poised to leverage the breadth of experience in building a User-focused web application with the most up-to-date tools and framework.
 
 
 ## 🌐 Socials:
